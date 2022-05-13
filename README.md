@@ -11,3 +11,5 @@ https://www.statista.com/statistics/266368/number-of-winter-olympic-games-partic
 
 Number of events: https://www.statista.com/statistics/1090670/olympics-number-events-by-gender-since-1896/?fbclid=IwAR2K9U6XP6tTB3FUyAVMDTjwA9NgIZs4d6RQ4jg3gDtM7N7KfaD-Zadc4aM
 https://www.statista.com/statistics/266369/number-of-disciplines-in-the-winter-olympic-games-since-1924/?fbclid=IwAR2O_8Bl3YqnVOnjIzueWU__ZArwm1InBWVwLB3Dgiq53jn-shHMkewg-7k
+
+City data: https://www.downloadexcelfiles.com/wo_en/download-excel-file-list-olympic-host-cities?fbclid=IwAR3DdhEDLeD8Or41jFt6MeG54YjKYHZdFp5kx8SXHFLxT1D72nnokgkn3Fw#.Yn44MuhBxPa
