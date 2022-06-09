@@ -14,14 +14,6 @@ location_id,City,Country,Continent,Summer (Olympiad),Winter,Year,Opening Ceremon
 12,Los Angeles,United States,North America,X,-,,July 30,August 14
 13,Garmisch-Partenkirchen,Nazi Germany,Europe,-,IV,1936.0,February 6,February 16
 14,Berlin,Nazi Germany,Europe,XI,-,,August 1,August 16
-15,"Sapporo
- Garmisch-Partenkirchen","Empire of Japan
-  Nazi Germany","Asia
- Europe",-,V,1940.0,Cancelled due to World War II,
-16,"Tokyo
- Helsinki","Empire of Japan
-  Finland","Asia
- Europe",XII,-,,Cancelled due to World War II,
 17,Cortina d'Ampezzo,Italy,Europe,-,V,1944.0,Cancelled due to World War II,
 18,London,United Kingdom,Europe,XIII,-,,Cancelled due to World War II,
 19,St. Moritz,Switzerland,Europe,-,V,1948.0,January 30,February 8
@@ -29,12 +21,6 @@ location_id,City,Country,Continent,Summer (Olympiad),Winter,Year,Opening Ceremon
 21,Oslo,Norway,Europe,-,VI,1952.0,February 14,February 25
 22,Helsinki,Finland,Europe,XV,-,,July 19,August 3
 23,Cortina d'Ampezzo,Italy,Europe,-,VII,1956.0,January 26,February 5
-24,"Melbourne
- Stockholm","Australia
-  Sweden","Oceania
- Europe",XVI,-,,"November 22
- June 10","December 8
- June 17"
 25,Squaw Valley,United States,North America,-,VIII,1960.0,February 18,February 28
 26,Rome,Italy,Europe,XVII,-,,August 25,September 11
 27,Innsbruck,Austria,Europe,-,IX,1964.0,January 29,February 9
