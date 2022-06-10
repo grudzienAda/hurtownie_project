@@ -1,0 +1,9 @@
+continent,country,city
+Asia,China,Beijing
+Europe,Greece,Athens
+Europe,Italy,Turin
+Europe,Russia,Sochi
+Europe,United Kingdom,London
+North America,Canada,Vancouver
+North America,United States,Salt Lake City
+Oceania,Australia,Sydney

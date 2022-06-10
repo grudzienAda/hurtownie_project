@@ -1,0 +1,329 @@
+team_name,team_country,NOC
+Angola,Angola,ANG
+Australia,Australia,AUS
+Austria-2,Austria-2,AUT
+Bahrain,Bahrain,BRN
+Calimucho,Calimucho,FRA
+Congo (Kinshasa),Congo (Kinshasa),COD
+Croatia,Croatia,CRO
+Denmark,Denmark,DEN
+Digby,Digby,DEN
+Ecuador,Ecuador,ECU
+El Salvador,El Salvador,ESA
+Ethiopia,Ethiopia,ETH
+Greenoaks Dundee,Greenoaks Dundee,AUS
+Honduras,Honduras,HON
+India-1,India-1,IND
+Ireland,Ireland,IRL
+Israel-2,Israel-2,ISR
+Lancet,Lancet,GBR
+Latvia-2,Latvia-2,LAT
+Libya,Libya,LBA
+Lithuania,Lithuania,LTU
+Maldives,Maldives,MDV
+Mistral Hojris,Mistral Hojris,GBR
+Netherlands,Netherlands,NED
+Norway-1,Norway-1,NOR
+Philippines,Philippines,PHI
+Saudi Arabia,Saudi Arabia,KSA
+Singapore-2,Singapore-2,SGP
+Solos Carex,Solos Carex,SWE
+Spain-2,Spain-2,ESP
+Sweden-1,Sweden-1,SWE
+Timor Leste,Timor Leste,TLS
+Uganda,Uganda,UGA
+Ukraine-2,Ukraine-2,UKR
+United States,United States,USA
+Afghanistan,Afghanistan,AFG
+Aruba,Aruba,ARU
+Austria-1,Austria-1,AUT
+Belarus-1,Belarus-1,BLR
+Belgium,Belgium,BEL
+Benin,Benin,BEN
+Bermuda,Bermuda,BER
+Bonaparte,Bonaparte,GER
+Bulgaria,Bulgaria,BUL
+Cape Verde,Cape Verde,CPV
+Cayman Islands,Cayman Islands,CAY
+Chinese Taipei-2,Chinese Taipei-2,TPE
+Clearwater,Clearwater,DEN
+Cuba-1,Cuba-1,CUB
+Djibouti,Djibouti,DJI
+Dow Jones,Dow Jones,JPN
+Finland,Finland,FIN
+Galopin De La Font,Galopin De La Font,POR
+Germany-3,Germany-3,GER
+Ghana,Ghana,GHA
+Guatemala,Guatemala,GUA
+Hungary-2,Hungary-2,HUN
+Japan,Japan,JPN
+Jordan,Jordan,JOR
+Mauritania,Mauritania,MTN
+Namibia,Namibia,NAM
+Nepal,Nepal,NEP
+Pakistan,Pakistan,PAK
+Palestine,Palestine,PLE
+Paraguay,Paraguay,PAR
+Portugal,Portugal,POR
+Ravel,Ravel,USA
+Romania-2,Romania-2,ROU
+Sao Tome and Principe,Sao Tome and Principe,STP
+Senegal,Senegal,SEN
+Serbia,Serbia,SRB
+Slovenia,Slovenia,SLO
+Somalia,Somalia,SOM
+Spain-1,Spain-1,ESP
+Sri Lanka,Sri Lanka,SRI
+Suriname,Suriname,SUR
+Sweden,Sweden,SWE
+Syria,Syria,SYR
+Tanzania,Tanzania,TAN
+Turkey,Turkey,TUR
+Whitini Star,Whitini Star,FRA
+Zambia,Zambia,ZAM
+Armenia,Armenia,ARM
+Australia-3,Australia-3,AUS
+Austria,Austria,AUT
+Bahamas,Bahamas,BAH
+Belarus,Belarus,BLR
+Brazil,Brazil,BRA
+Cambodia,Cambodia,CAM
+Colombia,Colombia,COL
+Cuba,Cuba,CUB
+Denmark-1,Denmark-1,DEN
+Diabolo St Maurice,Diabolo St Maurice,FRA
+Estonia,Estonia,EST
+Floresco,Floresco,SWE
+Gambia,Gambia,GAM
+Great Britain-1,Great Britain-1,GBR
+Greece-1,Greece-1,GRE
+Guinea,Guinea,GUI
+Japan-1,Japan-1,JPN
+Kuwait,Kuwait,KUW
+Liberia,Liberia,LBR
+Luxembourg,Luxembourg,LUX
+Mongolia,Mongolia,MGL
+Netherlands-2,Netherlands-2,NED
+Nigeria,Nigeria,NGR
+Nigeria-1,Nigeria-1,NGR
+Oman,Oman,OMA
+Papua New Guinea,Papua New Guinea,PNG
+Poland-2,Poland-2,POL
+Russia-3,Russia-3,RUS
+Saint Lucia,Saint Lucia,LCA
+Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,VIN
+South Africa,South Africa,RSA
+Tunisia,Tunisia,TUN
+United States-2,United States-2,USA
+Uzbekistan,Uzbekistan,UZB
+Barbados,Barbados,BAR
+British Virgin Islands,British Virgin Islands,IVB
+Burundi,Burundi,BDI
+Cameroon,Cameroon,CMR
+Chad,Chad,CHA
+China-1,China-1,CHN
+Chinese Taipei,Chinese Taipei,TPE
+Costa Rica,Costa Rica,CRC
+Cuba-2,Cuba-2,CUB
+Dominica,Dominica,DMA
+Elvis Va,Elvis Va,GER
+Federated States of Micronesia,Federated States of Micronesia,FSM
+Germany-1,Germany-1,GER
+Germany-2,Germany-2,GER
+Gran Gesto,Gran Gesto,CAN
+Guam,Guam,GUM
+Hong Kong,Hong Kong,HKG
+Hungary,Hungary,HUN
+India-2,India-2,IND
+Italy-1,Italy-1,ITA
+Italy-2,Italy-2,ITA
+Kiribati,Kiribati,KIR
+Latvia,Latvia,LAT
+Latvia-1,Latvia-1,LAT
+Malaysia-2,Malaysia-2,MAS
+Marshall Islands,Marshall Islands,MHL
+Moldova,Moldova,MDA
+Mozambique,Mozambique,MOZ
+Myanmar,Myanmar,MYA
+Nicaragua,Nicaragua,NCA
+Niger,Niger,NIG
+North Korea,North Korea,PRK
+Norway,Norway,NOR
+Norway-2,Norway-2,NOR
+Pop Art,Pop Art,CAN
+Quando Quando,Quando Quando,AUS
+Samoa,Samoa,SAM
+San Marino,San Marino,SMR
+Satchmo,Satchmo,GER
+Serbia and Montenegro,Serbia and Montenegro,SCG
+Sierra Leone,Sierra Leone,SLE
+Singapore,Singapore,SGP
+Slovakia,Slovakia,SVK
+Solomon Islands,Solomon Islands,SOL
+South Korea-1,South Korea-1,KOR
+Switzerland,Switzerland,SUI
+Switzerland-1,Switzerland-1,SUI
+United Arab Emirates,United Arab Emirates,UAE
+Vietnam,Vietnam,VIE
+Whisper,Whisper,JPN
+Algeria,Algeria,ALG
+Australia-1,Australia-1,AUS
+Bangladesh,Bangladesh,BAN
+Belarus-2,Belarus-2,BLR
+Belize,Belize,BIZ
+Bosnia and Herzegovina,Bosnia and Herzegovina,BIH
+Briar,Briar,SWE
+Brunei,Brunei,BRU
+Canada,Canada,CAN
+China,China,CHN
+Chinese Taipei-1,Chinese Taipei-1,TPE
+Cook Islands,Cook Islands,COK
+Czech Republic,Czech Republic,CZE
+Fiji,Fiji,FIJ
+France-1,France-1,FRA
+Great Britain-2,Great Britain-2,GBR
+Greece-2,Greece-2,GRE
+Grenada,Grenada,GRN
+Guyana,Guyana,GUY
+Haiti,Haiti,HAI
+Hungary-1,Hungary-1,HUN
+Iceland,Iceland,ISL
+Indonesia-1,Indonesia-1,INA
+Iran,Iran,IRI
+Japan-2,Japan-2,JPN
+Kazakhstan,Kazakhstan,KAZ
+Kenya,Kenya,KEN
+Laos,Laos,LAO
+Madagascar,Madagascar,MAD
+Malawi,Malawi,MAW
+Mauritius,Mauritius,MRI
+Mexico,Mexico,MEX
+Netherlands Antilles,Netherlands Antilles,AHO
+Netherlands-1,Netherlands-1,NED
+Nigeria-2,Nigeria-2,NGR
+Peru,Peru,PER
+Poland,Poland,POL
+Rambo,Rambo,JPN
+Romania-1,Romania-1,ROU
+Russia,Russia,RUS
+Russia-2,Russia-2,RUS
+Rwanda,Rwanda,RWA
+Spain,Spain,ESP
+Swaziland,Swaziland,SWZ
+Thailand,Thailand,THA
+Togo,Togo,TOG
+United States-3,United States-3,USA
+Venezuela,Venezuela,VEN
+Albania,Albania,ALB
+American Samoa,American Samoa,ASA
+Antigua and Barbuda,Antigua and Barbuda,ANT
+Argentina-1,Argentina-1,ARG
+Bhutan,Bhutan,BHU
+Botswana,Botswana,BOT
+Brazil-1,Brazil-1,BRA
+Brazil-2,Brazil-2,BRA
+Canada-2,Canada-2,CAN
+Central African Republic,Central African Republic,CAF
+Chile,Chile,CHI
+China-2,China-2,CHN
+Czech Republic-1,Czech Republic-1,CZE
+Denmark-2,Denmark-2,DEN
+Don Schufro,Don Schufro,DEN
+Egypt,Egypt,EGY
+Equatorial Guinea,Equatorial Guinea,GEQ
+Guinea Bissau,Guinea Bissau,GBS
+Hong Kong-2,Hong Kong-2,HKG
+Indonesia,Indonesia,INA
+Indonesia-2,Indonesia-2,INA
+Israel-1,Israel-1,ISR
+Malaysia,Malaysia,MAS
+Morocco,Morocco,MAR
+Nadine,Nadine,NED
+Palau,Palau,PLW
+Panama,Panama,PAN
+Relampago,Relampago,AUS
+Romania,Romania,ROU
+Saint Kitts and Nevis,Saint Kitts and Nevis,SKN
+Serbia-2,Serbia-2,SRB
+Seychelles,Seychelles,SEY
+Singapore-1,Singapore-1,SGP
+Slovakia-1,Slovakia-1,SVK
+Slovakia-2,Slovakia-2,SVK
+Slovenia-1,Slovenia-1,SLO
+Slovenia-2,Slovenia-2,SLO
+Switzerland-2,Switzerland-2,SUI
+Thailand-2,Thailand-2,THA
+Tuvalu,Tuvalu,TUV
+United States-1,United States-1,USA
+Andorra,Andorra,AND
+Argentina,Argentina,ARG
+Argentina-2,Argentina-2,ARG
+Australia-2,Australia-2,AUS
+Azerbaijan,Azerbaijan,AZE
+Canada-3,Canada-3,CAN
+Comoros,Comoros,COM
+Congo (Brazzaville),Congo (Brazzaville),CGO
+Cyprus,Cyprus,CYP
+Czech Republic-2,Czech Republic-2,CZE
+Dominican Republic,Dominican Republic,DOM
+France-2,France-2,FRA
+Gabon,Gabon,GAB
+Georgia,Georgia,GEO
+Great Britain,Great Britain,GBR
+Hong Kong-1,Hong Kong-1,HKG
+India,India,IND
+Israel,Israel,ISR
+Jamaica,Jamaica,JAM
+Lebanon,Lebanon,LIB
+Lesotho,Lesotho,LES
+Liechtenstein,Liechtenstein,LIE
+Lucky Star,Lucky Star,GBR
+Malaysia-1,Malaysia-1,MAS
+Malta,Malta,MLT
+Monaco,Monaco,MON
+Montenegro,Montenegro,MNE
+Mythilus,Mythilus,USA
+Notavel,Notavel,POR
+Orion,Orion,CAN
+Qatar,Qatar,QAT
+Serbia-1,Serbia-1,SRB
+South Korea,South Korea,KOR
+Sweden-2,Sweden-2,SWE
+Tajikistan,Tajikistan,TJK
+Thailand-1,Thailand-1,THA
+Turkmenistan,Turkmenistan,TKM
+Uruguay,Uruguay,URU
+Yemen,Yemen,YEM
+Zimbabwe,Zimbabwe,ZIM
+Bolivia,Bolivia,BOL
+Brentina,Brentina,USA
+Burkina Faso,Burkina Faso,BUR
+Canada-1,Canada-1,CAN
+China-3,China-3,CHN
+Cote d'Ivoire,Cote d'Ivoire,CIV
+Eritrea,Eritrea,ERI
+France,France,FRA
+Germany,Germany,GER
+Greece,Greece,GRE
+Individual Olympic Athletes,Individual Olympic Athletes,IOA
+Iraq,Iraq,IRQ
+Italy,Italy,ITA
+Kyrgyzstan,Kyrgyzstan,KGZ
+Macedonia,Macedonia,MKD
+Mali,Mali,MLI
+Nauru,Nauru,NRU
+New Zealand,New Zealand,NZL
+Oxalis,Oxalis,POR
+Poland-1,Poland-1,POL
+Puerto Rico,Puerto Rico,PUR
+Russia-1,Russia-1,RUS
+Salinero,Salinero,NED
+South Korea-2,South Korea-2,KOR
+Sudan,Sudan,SUD
+Sunrise,Sunrise,NED
+Tonga,Tonga,TGA
+Trinidad and Tobago,Trinidad and Tobago,TTO
+Ukraine,Ukraine,UKR
+Ukraine-1,Ukraine-1,UKR
+United States Virgin Islands,United States Virgin Islands,ISV
+Vanuatu,Vanuatu,VAN

@@ -1,0 +1,9 @@
+location_id,continent,country,city
+0,Asia,China,Beijing
+1,Europe,Greece,Athens
+2,Europe,Italy,Turin
+3,Europe,Russia,Sochi
+4,Europe,United Kingdom,London
+5,North America,Canada,Vancouver
+6,North America,United States,Salt Lake City
+7,Oceania,Australia,Sydney

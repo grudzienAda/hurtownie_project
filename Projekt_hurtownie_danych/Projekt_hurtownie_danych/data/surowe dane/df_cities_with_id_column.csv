@@ -1,0 +1,60 @@
+location_id,City,Country,Continent,Summer (Olympiad),Winter,Year,Opening Ceremony,Closing Ceremony
+0,Athens,Greece,Europe,I,-,1896.0,April 6,April 15
+1,Paris,France,Europe,II,-,1900.0,May 14,October 28
+2,St. Louis,United States,North America,III,-,1904.0,July 1,November 23
+3,London,United Kingdom,Europe,IV,-,1908.0,April 27,October 31
+4,Stockholm,Sweden,Europe,V,-,1912.0,May 5,July 22
+5,Berlin,Germany,Europe,VI,-,1916.0,Cancelled due to World War I,
+6,Antwerp,Belgium,Europe,VII,-,1920.0,April 20,September 12
+7,Chamonix,France,Europe,-,I,1924.0,January 25,February 4
+8,Paris,France,Europe,VIII,-,,May 4,July 27
+9,St. Moritz,Switzerland,Europe,-,II,1928.0,February 11,February 19
+10,Amsterdam,Netherlands,Europe,IX,-,,May 17,August 12
+11,Lake Placid,United States,North America,-,III,1932.0,February 4,February 15
+12,Los Angeles,United States,North America,X,-,,July 30,August 14
+13,Garmisch-Partenkirchen,Nazi Germany,Europe,-,IV,1936.0,February 6,February 16
+14,Berlin,Nazi Germany,Europe,XI,-,,August 1,August 16
+17,Cortina d'Ampezzo,Italy,Europe,-,V,1944.0,Cancelled due to World War II,
+18,London,United Kingdom,Europe,XIII,-,,Cancelled due to World War II,
+19,St. Moritz,Switzerland,Europe,-,V,1948.0,January 30,February 8
+20,London,United Kingdom,Europe,XIV,-,,July 29,August 14
+21,Oslo,Norway,Europe,-,VI,1952.0,February 14,February 25
+22,Helsinki,Finland,Europe,XV,-,,July 19,August 3
+23,Cortina d'Ampezzo,Italy,Europe,-,VII,1956.0,January 26,February 5
+25,Squaw Valley,United States,North America,-,VIII,1960.0,February 18,February 28
+26,Rome,Italy,Europe,XVII,-,,August 25,September 11
+27,Innsbruck,Austria,Europe,-,IX,1964.0,January 29,February 9
+28,Tokyo,Japan,Asia,XVIII,-,,October 10,October 24
+29,Grenoble,France,Europe,-,X,1968.0,February 6,February 18
+30,Mexico City,Mexico,North America,XIX,-,,October 12,October 27
+31,Sapporo,Japan,Asia,-,XI,1972.0,February 3,February 13
+32,Munich,West Germany,Europe,XX,-,,August 26,September 11
+33,Innsbruck,Austria,Europe,-,XII,1976.0,February 4,February 15
+34,Montreal,Canada,North America,XXI,-,,July 17,August 1
+35,Lake Placid,United States,North America,-,XIII,1980.0,February 12,February 24
+36,Moscow,Soviet Union,Europe,XXII,-,,July 19,August 3
+37,Sarajevo,Yugoslavia,Europe,-,XIV,1984.0,February 7,February 19
+38,Los Angeles,United States,North America,XXIII,-,,July 28,August 12
+39,Calgary,Canada,North America,-,XV,1988.0,February 13,February 28
+40,Seoul,South Korea,Asia,XXIV,-,,September 17,October 2
+41,Albertville,France,Europe,-,XVI,1992.0,February 8,February 23
+42,Barcelona,Spain,Europe,XXV,-,,July 25,August 9
+43,Lillehammer,Norway,Europe,-,XVII,1994.0,February 12,February 27
+44,Atlanta,United States,North America,XXVI,-,1996.0,July 19,August 4
+45,Nagano,Japan,Asia,-,XVIII,1998.0,February 7,February 22
+46,Sydney,Australia,Oceania,XXVII,-,2000.0,September 15,October 1
+47,Salt Lake City,United States,North America,-,XIX,2002.0,February 8,February 24
+48,Athens,Greece,Europe,XXVIII,-,2004.0,August 13,August 29
+49,Turin,Italy,Europe,-,XX,2006.0,February 10,February 26
+50,Beijing,China,Asia,XXIX,-,2008.0,August 8,August 24
+51,Vancouver,Canada,North America,-,XXI,2010.0,February 12,February 28
+52,London,United Kingdom,Europe,XXX,-,2012.0,July 27,August 12
+53,Sochi,Russia,Europe,-,XXII,2014.0,February 7,February 23
+54,Rio de Janeiro,Brazil,South America,XXXI,-,2016.0,August 5,August 21
+55,Pyeongchang,South Korea,Asia,-,XXIII,2018.0,February 9,February 25
+56,Tokyo,Japan,Asia,XXXII,-,2020.0,July 24,August 9
+57,Beijing,China,Asia,-,XXIV,2022.0,February 4,February 20
+58,Paris,France,Europe,XXXIII,-,2024.0,August 2,August 18
+59,TBD,TBD,,-,XXV,2026.0,(TBD),
+60,Los Angeles,United States,North America,XXXIV,-,2028.0,July 21,August 6
+61,TBD,TBD,,-,XXVI,2030.0,(TBD),
