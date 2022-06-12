@@ -1,0 +1,103 @@
+﻿<DeploymentSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Target>
+    <Database>olympic_games_analysis</Database>
+    <Server>localhost</Server>
+    <ConnectionString>Data Source=localhost;Timeout=0</ConnectionString>
+  </Target>
+  <Options>
+    <TransactionalDeployment>false</TransactionalDeployment>
+    <PartitionDeployment>DeployPartitions</PartitionDeployment>
+    <RoleDeployment>DeployRolesRetainMembers</RoleDeployment>
+    <ProcessingOption>DoNotProcess</ProcessingOption>
+    <OutputScript></OutputScript>
+    <ImpactAnalysisFile></ImpactAnalysisFile>
+    <ConfigurationSettingsDeployment>Deploy</ConfigurationSettingsDeployment>
+    <OptimizationSettingsDeployment>Deploy</OptimizationSettingsDeployment>
+    <WriteBackTableCreation>UseExisting</WriteBackTableCreation>
+  </Options>
+  <Snapshot>
+    <ObjectSnapshots>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
+        <TimeStamp>ZEb3Zh7z2EyVnzuIWf0jeDsscF8=10.06.2022 16:49:3010.06.2022 16:49:30</TimeStamp>
+        <ID>
+          <String>Olympic Games</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>+9IAjio0U9GRn9jTXUkeo8KVuBo=10.06.2022 18:17:0410.06.2022 16:50:52</TimeStamp>
+        <ID>
+          <String>Olympic Games view</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>+kOvRv2ygz1IWnRhJkbeV56Keq4=10.06.2022 16:55:2410.06.2022 16:52:15</TimeStamp>
+        <ID>
+          <String>Locations</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>ackamUSbmwTTmA/k1EOyjB4hE0A=10.06.2022 16:56:2010.06.2022 16:56:11</TimeStamp>
+        <ID>
+          <String>Sports</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>iP3TTd8Bt5GuKSploGCusxjxNL0=10.06.2022 17:03:4510.06.2022 17:03:35</TimeStamp>
+        <ID>
+          <String>Teams</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>Xk8pn9qFzcTE7tPjsq6gmWzxHdc=11.06.2022 11:28:1210.06.2022 17:11:28</TimeStamp>
+        <ID>
+          <String>Athletes</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>GT4JA/tOv1s/FYqdRkYTlEeIrPI=10.06.2022 17:16:3410.06.2022 17:16:27</TimeStamp>
+        <ID>
+          <String>Date</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>Qr9B89LmJYuvDagr2xAsDNe2h/Y=10.06.2022 17:17:3410.06.2022 17:17:34</TimeStamp>
+        <ID>
+          <String>Olympic Games dimension</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>1xv6FDxj3PeqrWSDh1joinRAaQs=10.06.2022 17:22:1510.06.2022 17:22:15</TimeStamp>
+        <ID>
+          <String>Olympic Event Fact</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>0RpfL63rHDZo0RkEvL34mY+DDFY=11.06.2022 12:47:4710.06.2022 17:25:59LrYvtYUtKrjcvJZg9E/0zyTGNvU=11.06.2022 11:28:1210.06.2022 17:25:59</TimeStamp>
+        <ID>
+          <String>Olympic_Games_cube</String>
+        </ID>
+      </ObjectSnapshot>
+    </ObjectSnapshots>
+    <DatabaseSnapshot>
+      <Type>Microsoft.AnalysisServices.Database</Type>
+      <TimeStamp>1MpTxDYWjMb5z5012sUEvC7mp6g=10.06.2022 16:47:5510.06.2022 16:47:55</TimeStamp>
+      <ID>
+        <String>olympic_games_analysis</String>
+      </ID>
+    </DatabaseSnapshot>
+    <Granularity>Coarse</Granularity>
+  </Snapshot>
+  <AssemblyLocations />
+  <ProcessingComplete>true</ProcessingComplete>
+  <LastDeployed>2022-06-11T10:47:50.033333Z</LastDeployed>
+</DeploymentSnapshot>

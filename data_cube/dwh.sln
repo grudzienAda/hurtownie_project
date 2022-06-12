@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "dwh", "dwh\dwh.dwproj", "{D5B7DA14-7397-4D0F-B2E0-A92804062CF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5B7DA14-7397-4D0F-B2E0-A92804062CF0}.Development|Default.ActiveCfg = Development
+		{D5B7DA14-7397-4D0F-B2E0-A92804062CF0}.Development|Default.Build.0 = Development
+		{D5B7DA14-7397-4D0F-B2E0-A92804062CF0}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37D16905-BAE4-4057-82C6-80EBF52381E9}
+	EndGlobalSection
+EndGlobal

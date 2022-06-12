@@ -1,0 +1,381 @@
+﻿<Dimension xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="6929fb8f-8e37-4f43-bcce-4c0f0e091208" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+  <ID>Athletes</ID>
+  <Name>Athletes</Name>
+  <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+  <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+  <Annotations>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramLayout</Name>
+      <Value>
+        <dds xmlns="">
+          <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="3" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-2235" scrolltop="-2148" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="100" x="7726" y="9123" backcolor="2434342" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="0" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
+            <font>
+              <ddsxmlobjectstreamwrapper binary="01ee00009001b0300100065461686f6d61" />
+            </font>
+            <mouseicon>
+              <ddsxmlobjectstreamwrapper binary="6c74000000000000" />
+            </mouseicon>
+          </diagram>
+          <layoutmanager>
+            <ddsxmlobj />
+          </layoutmanager>
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Athletes" left="20" top="0" logicalid="2" controlid="1" masterid="0" hint1="0" hint2="0" width="3217" height="4826" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+            <control>
+              <ddsxmlobjectstreaminitwrapper binary="000e0000910c0000da120000" />
+            </control>
+            <layoutobject>
+              <ddsxmlobj>
+                <property name="LogicalObject" value="dbo_Athletes" vartype="8" />
+              </ddsxmlobj>
+            </layoutobject>
+            <shape groupshapeid="0" groupnode="0" />
+          </ddscontrol>
+        </dds>
+      </Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowFriendlyNames</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowRelationshipNames</Name>
+      <Value>false</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:UseDiagramDefaultLayout</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortLeft</Name>
+      <Value>-2235</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortTop</Name>
+      <Value>-2148</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingLeft</Name>
+      <Value>20</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingTop</Name>
+      <Value>0</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramZoom</Name>
+      <Value>100</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ARDiagramLayout</Name>
+      <Value>
+        <DiagramLayout ZoomPercent="100" ViewPortX="0" ViewPortY="0" xmlns="">
+          <Shapes NodeWidth="125">
+            <Shape Id="Sid" Expanded="false">
+              <Attributes>
+                <Attribute Id="Sid" />
+                <Attribute Id="Athlete Id" />
+              </Attributes>
+              <Position x="20" y="20" />
+            </Shape>
+            <Shape Id="Athlete Score" Expanded="false">
+              <Attributes>
+                <Attribute Id="Athlete Score" />
+              </Attributes>
+              <Position x="181" y="20" />
+            </Shape>
+            <Shape Id="Weight" Expanded="false">
+              <Attributes>
+                <Attribute Id="Weight" />
+              </Attributes>
+              <Position x="181" y="69" />
+            </Shape>
+            <Shape Id="Height" Expanded="false">
+              <Attributes>
+                <Attribute Id="Height" />
+              </Attributes>
+              <Position x="181" y="118" />
+            </Shape>
+            <Shape Id="Birth Year" Expanded="false">
+              <Attributes>
+                <Attribute Id="Birth Year" />
+              </Attributes>
+              <Position x="181" y="167" />
+            </Shape>
+            <Shape Id="Sex" Expanded="false">
+              <Attributes>
+                <Attribute Id="Sex" />
+              </Attributes>
+              <Position x="181" y="216" />
+            </Shape>
+            <Shape Id="Full Name" Expanded="true">
+              <Attributes>
+                <Attribute Id="Full Name" />
+              </Attributes>
+              <Position x="181" y="265" />
+            </Shape>
+          </Shapes>
+        </DiagramLayout>
+      </Value>
+    </Annotation>
+  </Annotations>
+  <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+  <State>Unprocessed</State>
+  <Source xsi:type="DataSourceViewBinding" dwd:design-time-name="4804c89b-0ec6-4d91-9169-6e0620840a06">
+    <DataSourceViewID>Olympic Games view</DataSourceViewID>
+  </Source>
+  <ErrorConfiguration dwd:design-time-name="8fcd9729-b0d6-4668-bb46-5e8ed55e93c2">
+    <KeyNotFound>ReportAndStop</KeyNotFound>
+    <KeyDuplicate>ReportAndStop</KeyDuplicate>
+    <NullKeyNotAllowed>ReportAndStop</NullKeyNotAllowed>
+  </ErrorConfiguration>
+  <CurrentStorageMode>Molap</CurrentStorageMode>
+  <Attributes>
+    <Attribute dwd:design-time-name="7a8eee0b-5255-4eb2-ac20-1b12f9d90e93">
+      <ID>Athlete Id</ID>
+      <Name>Athlete Id</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="82637366-ca31-4a00-90cf-f25595b257d8">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="cf2f7284-4eef-405b-b601-b84cb2450108">
+            <TableID>dbo_Athletes</TableID>
+            <ColumnID>athlete_id</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="1f2d8ce3-85e9-4251-b702-571863dff845">
+      <ID>Full Name</ID>
+      <Name>Full Name</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="0ea53760-d5c4-4d6f-99fd-56541fd27a8f">
+          <DataType>WChar</DataType>
+          <DataSize>500</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="f785344d-1501-4902-9b8f-2e4adda8d5f9">
+            <TableID>dbo_Athletes</TableID>
+            <ColumnID>full_name</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="d68bd050-0a35-4c08-8e58-fb3650b93dd7">
+      <ID>Sex</ID>
+      <Name>Sex</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="df800df2-2e64-4594-b7a6-6543329aed48">
+          <DataType>WChar</DataType>
+          <DataSize>6</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="05aaaad1-e8f8-425a-874c-31e70a705d4d">
+            <TableID>dbo_Athletes</TableID>
+            <ColumnID>sex</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="4276e9a8-85f7-4916-bd87-394937e3cfe8">
+      <ID>Birth Year</ID>
+      <Name>Birth Year</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="bf8392ff-363b-4766-8186-81347249e20b">
+          <DataType>Double</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="14c514b3-4afe-436f-ab90-ea5342e450aa">
+            <TableID>dbo_Athletes</TableID>
+            <ColumnID>birth_year</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="fefa509f-dd91-4d55-8f89-78ce0a940fc2">
+      <ID>Height</ID>
+      <Name>Height</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="a1e55fea-5388-4016-ae9f-927c80782fb9">
+          <DataType>Double</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="82985316-0a1e-4889-ac3e-8dba5cc3999a">
+            <TableID>dbo_Athletes</TableID>
+            <ColumnID>height</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="002afa43-a2be-4272-bb0e-9c6b849d7c9d">
+      <ID>Weight</ID>
+      <Name>Weight</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="8f23671a-dcdf-4b67-aeb1-5c379a5329ea">
+          <DataType>Double</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="e722b645-91ea-4dbb-b262-893bb5ef5a88">
+            <TableID>dbo_Athletes</TableID>
+            <ColumnID>weight</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="900a76a1-dbe5-47d1-a4d8-dbbd39d25a3e">
+      <ID>Athlete Score</ID>
+      <Name>Athlete Score</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="4d7b849a-8d6a-43ae-8ba5-efe2b918e1b0">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="987e44c7-94a1-411a-8704-7a9b6de4bcfa">
+            <TableID>dbo_Athletes</TableID>
+            <ColumnID>athlete_score</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="6b383f4c-72f6-4dfc-9379-ff6732f23e22">
+      <ID>Sid</ID>
+      <Name>Sid</Name>
+      <Usage>Key</Usage>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="eaaecb44-dee5-4255-a7f6-67245c9bb399">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="801f661d-7b03-4ffb-970d-f9060da677c9">
+            <TableID>dbo_Athletes</TableID>
+            <ColumnID>sid</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <AttributeRelationships>
+        <AttributeRelationship dwd:design-time-name="f35672af-a8ce-4a33-ade8-61e30ed9ead6">
+          <AttributeID>Athlete Id</AttributeID>
+          <Name>Athlete Id</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="62438362-64ac-4a05-87ab-af9071d9e553">
+          <AttributeID>Full Name</AttributeID>
+          <Name>Full Name</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="2960c265-c805-4fa7-bd97-7b609b973fe0">
+          <AttributeID>Sex</AttributeID>
+          <Name>Sex</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="db8f16b2-095b-47a1-a7d1-a298754fc0fd">
+          <AttributeID>Birth Year</AttributeID>
+          <Name>Birth Year</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="0aa5e8ea-b9c0-4a2b-ae6e-7a3cafdcc03d">
+          <AttributeID>Height</AttributeID>
+          <Name>Height</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="414049d8-0c45-4a4b-8a5a-e036e40f812a">
+          <AttributeID>Weight</AttributeID>
+          <Name>Weight</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="a10a1d87-cfff-4b31-9ffa-9f689f06dbb8">
+          <AttributeID>Athlete Score</AttributeID>
+          <Name>Athlete Score</Name>
+        </AttributeRelationship>
+      </AttributeRelationships>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+  </Attributes>
+  <Hierarchies>
+    <Hierarchy dwd:design-time-name="815d3d90-0f56-4ed3-8c9a-b67b36c7079f">
+      <ID>Hierarchy</ID>
+      <Name>birth_year_hierarchy</Name>
+      <Levels>
+        <Level dwd:design-time-name="f4fc6e22-7e99-450e-97e4-f8197d056ae1">
+          <ID>Sex</ID>
+          <Name>Sex</Name>
+          <SourceAttributeID>Sex</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="fb8215a7-2677-4766-83dc-0ecc43e9afd1">
+          <ID>Birth Year</ID>
+          <Name>Birth Year</Name>
+          <SourceAttributeID>Birth Year</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="c265cc9b-5932-4c3f-b86a-f9bf81c39c56">
+          <ID>Full Name</ID>
+          <Name>Full Name</Name>
+          <SourceAttributeID>Full Name</SourceAttributeID>
+        </Level>
+      </Levels>
+    </Hierarchy>
+    <Hierarchy dwd:design-time-name="2ad732cc-3855-43f4-ae55-69dab1a362a1">
+      <ID>Hierarchy 1</ID>
+      <Name>height_hierarchy</Name>
+      <Levels>
+        <Level dwd:design-time-name="afbbe778-bd15-4257-8152-6cd0786aa6cc">
+          <ID>Sex</ID>
+          <Name>Sex</Name>
+          <SourceAttributeID>Sex</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="f6a18958-2e04-4a2d-873f-9f55a42d9eed">
+          <ID>Height</ID>
+          <Name>Height</Name>
+          <SourceAttributeID>Height</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="68f0fc4f-85f7-40ba-8002-b53e45fbba17">
+          <ID>Full Name</ID>
+          <Name>Full Name</Name>
+          <SourceAttributeID>Full Name</SourceAttributeID>
+        </Level>
+      </Levels>
+    </Hierarchy>
+    <Hierarchy dwd:design-time-name="2d9eb847-1720-4013-8e7a-7a1e51cfb19c">
+      <ID>Hierarchy 3</ID>
+      <Name>score_hierarchy</Name>
+      <Levels>
+        <Level dwd:design-time-name="3ef91ce1-788c-4008-b5c3-e0cddc9012dd">
+          <ID>Sex</ID>
+          <Name>Sex</Name>
+          <SourceAttributeID>Sex</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="c59573d3-1056-4c43-930e-8659bb6ebd3b">
+          <ID>Athlete Score</ID>
+          <Name>Athlete Score</Name>
+          <SourceAttributeID>Athlete Score</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="e6c74e7b-03bd-4158-a44f-4b9edcc6a812">
+          <ID>Full Name</ID>
+          <Name>Full Name</Name>
+          <SourceAttributeID>Full Name</SourceAttributeID>
+        </Level>
+      </Levels>
+    </Hierarchy>
+    <Hierarchy dwd:design-time-name="d9fcc8e4-1051-410d-9067-a14764aba830">
+      <ID>Hierarchy 2</ID>
+      <Name>weight_hierarchy</Name>
+      <Levels>
+        <Level dwd:design-time-name="81397799-d6db-47ca-8cd2-1602c655e7a8">
+          <ID>Sex</ID>
+          <Name>Sex</Name>
+          <SourceAttributeID>Sex</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="97d720cb-2a47-4bf9-92f3-cad5bb92bf6b">
+          <ID>Weight</ID>
+          <Name>Weight</Name>
+          <SourceAttributeID>Weight</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="94c903b3-4665-4103-83f0-a6055b3329cb">
+          <ID>Full Name</ID>
+          <Name>Full Name</Name>
+          <SourceAttributeID>Full Name</SourceAttributeID>
+        </Level>
+      </Levels>
+    </Hierarchy>
+  </Hierarchies>
+  <ddl300:ProcessingState>Unprocessed</ddl300:ProcessingState>
+</Dimension>
